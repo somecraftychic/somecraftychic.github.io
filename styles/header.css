@@ -10,3 +10,12 @@ h1{
     text-align: center;
     margin: 30px auto 20px auto;
 }
+
+a.fa-shopping-cart{
+    font-size: 1.5rem;
+    color: rgb(138, 82, 52);
+    position: fixed;
+    right: 0;
+    top: 0;
+    margin: 10px 15px 0 0;
+}

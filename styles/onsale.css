@@ -1,0 +1,17 @@
+* {margin: 0; box-sizing: border-box;}
+
+body{
+    background-color: rgb(193, 254, 229);
+    color: rgb(138, 82, 52);
+    font-family: 'Petit Formal Script', cursive;
+    font-weight: bold;
+}
+
+nav{
+    margin: 0 auto;
+    width: 800px;
+}
+
+header{
+    width: 100%;
+}
