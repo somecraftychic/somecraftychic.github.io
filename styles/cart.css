@@ -1,19 +1,31 @@
-button{
+* {margin: 0; box-sizing: border-box;}
+
+main{
+    display: flex;
+}
+
+main button{
     border: none;
     background-color: rgb(254, 206, 193);
     height: 30px;
     width: 200px;
-    color: rgb(138, 82, 52);
     border-radius: 5px;
+    text-decoration: none;
+    margin: 20px auto 10px auto;
 }
 
-button:hover{
+main button:hover{
     background-color: rgb(255, 186, 173);
     cursor: pointer;
 
 }
 
-* {margin: 0; box-sizing: border-box;}
+main button a{
+    text-decoration: none;
+    color: rgb(138, 82, 52);
+    font-family: 'Petit Formal Script', cursive;
+    font-weight: bold;
+}
 
 body{
     background-color: rgb(193, 254, 229);
