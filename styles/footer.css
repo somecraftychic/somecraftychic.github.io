@@ -1,0 +1,39 @@
+footer{
+    margin: 0 auto;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    background: linear-gradient(rgb(193, 254, 229), rgb(254, 206, 193), rgb(254, 206, 193));
+    width: 100%;
+    padding: 40px 0 15px 0;
+    font-size: .75rem;
+}
+
+a.fa{
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    padding: 5px 0 0 0;
+    text-decoration: none;
+}
+
+a.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+a.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+a.fa-pinterest{
+    background: #cb2027;
+    color: white;
+}
+
+h3 a{
+    text-decoration: none;
+    color: rgb(138, 82, 52);
+}

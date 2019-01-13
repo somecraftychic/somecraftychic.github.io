@@ -1,0 +1,12 @@
+hr{
+    height: 2px;
+    width: 75%;
+    margin: 15px auto;
+    background: linear-gradient(to right, rgb(193, 254, 229), rgb(138, 82, 52), rgb(193, 254, 229));
+    border: none;
+}
+
+h1{
+    text-align: center;
+    margin: 30px auto 20px auto;
+}
